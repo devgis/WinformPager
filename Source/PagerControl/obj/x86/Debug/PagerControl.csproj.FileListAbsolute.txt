@@ -1,0 +1,8 @@
+C:\Users\liyafei\Downloads\winform.pagerControl-master\winform.pagerControl-master\PagerControl\PagerControl\bin\Debug\PagerControl.exe
+C:\Users\liyafei\Downloads\winform.pagerControl-master\winform.pagerControl-master\PagerControl\PagerControl\bin\Debug\PagerControl.pdb
+C:\Users\liyafei\Downloads\winform.pagerControl-master\winform.pagerControl-master\PagerControl\PagerControl\obj\x86\Debug\PagerControl.csprojResolveAssemblyReference.cache
+C:\Users\liyafei\Downloads\winform.pagerControl-master\winform.pagerControl-master\PagerControl\PagerControl\obj\x86\Debug\PagerControl.FormMain.resources
+C:\Users\liyafei\Downloads\winform.pagerControl-master\winform.pagerControl-master\PagerControl\PagerControl\obj\x86\Debug\PagerControl.csproj.GenerateResource.Cache
+C:\Users\liyafei\Downloads\winform.pagerControl-master\winform.pagerControl-master\PagerControl\PagerControl\obj\x86\Debug\PagerControl.exe
+C:\Users\liyafei\Downloads\winform.pagerControl-master\winform.pagerControl-master\PagerControl\PagerControl\obj\x86\Debug\PagerControl.pdb
+C:\Users\liyafei\Downloads\winform.pagerControl-master\winform.pagerControl-master\PagerControl\PagerControl\bin\Debug\PagerControl.exe.config
